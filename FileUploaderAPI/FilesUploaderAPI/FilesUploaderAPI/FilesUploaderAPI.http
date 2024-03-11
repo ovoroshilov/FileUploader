@@ -1,0 +1,6 @@
+@FilesUploaderAPI_HostAddress = http://localhost:5189
+
+GET {{FilesUploaderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
